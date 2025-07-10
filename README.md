@@ -81,3 +81,4 @@ Open source under MIT License
 
 🙋‍♀️ Author
 Developed by Usha Sravanthi Bethampudi
+LinkedIn Link :https://www.linkedin.com/posts/ushaprofile_mernstack-ai-newsapp-activity-7349013542571823105-RpUQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6DVrkBXQwxAey2T3zqTgD__OHQz_JHy_w
